@@ -1,4 +1,4 @@
-# Data-Analysis-using-Power-BI---Superstore
+# Data-Analysis-using-Power-BI---Super Store
 
 My First Power BI Project. Hope you like it !!!!
 
