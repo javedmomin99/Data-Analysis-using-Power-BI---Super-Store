@@ -2,7 +2,7 @@
 
 My First Power BI Project. Hope you like it !!!!
 
-Live Interaction Link (Novy Pro) : https://www.novypro.com/project/-data-analysis-using-power-bi-super-store 
+Live Interaction Link (Novy Pro) : https://www.novypro.com/project/super-store
 
 
 
